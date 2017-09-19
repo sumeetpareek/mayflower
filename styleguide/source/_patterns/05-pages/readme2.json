@@ -1,12 +1,12 @@
 {
   "narrowTemplate": {
     "side": "left",
-    "color": "green"
+    "color": "blue"
   },
 
   "errorPage": {
-    "type": "v5.7.2 (9/6/2017)",
-    "title": "Welcome to Mayflower, the Commonwealth's Design System",
-    "message": "Use the navigation menu above to browse our patterns."
+    "type": "",
+    "title": "Hi, my name is Sumeet Pareek, and I look foward to working with Mass Gov",
+    "message": "This page is a clone of massgov's mayflower and pattern lab work, to help me ramp up quickly with those systems."
   }
 }
